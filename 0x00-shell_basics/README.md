@@ -9,3 +9,7 @@ Task 7. Betty in my first directory
 Task 8. Bye bye Betty
 Task 9. Bye bye My first directory
 Task 10. Back to the future
+Task 11. Lists
+Task 12. File type
+Task 13. We are symbols, and inhabit symbols
+Task 14. Copy HTML files
